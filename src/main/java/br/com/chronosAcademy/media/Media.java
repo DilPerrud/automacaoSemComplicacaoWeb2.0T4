@@ -7,7 +7,8 @@ public class Media {
         if (media < 5){
             return "Reprovado";
         }
-        return "Aprovado";
+
+            return "Aprovado";
 
     }
 }
